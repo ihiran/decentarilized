@@ -1,0 +1,41 @@
+<html>
+
+<head>
+
+<title></title>
+
+</head>
+
+<body>
+<!---header--->
+<table border="0" width="100%" cellspacing="0" bgcolor="#673de6">
+
+<tr><td>
+
+<table border="0" width="85%" align="center" cellpadding="15">
+
+<tr>
+
+<td><font face="Open Sans" size="5" color="black"> <b> Techno Brainz </b></font></td>
+
+<td width="20%"></td>
+
+<td> <a href="#"> <font color="#fff">Home </font></a></td>
+
+<td> <a href="#"><font color="#fff">Services </font></a></td>
+
+<td> <a href="#"><font color="#fff">Skills </font></a></td>
+
+<td> <a href="#"><font color="#fff">Team </font></a></td>
+
+<td> <a href="#"><font color="#fff">Contact Us </font></a></td>
+
+</tr>
+
+</table>
+
+</td></tr>
+
+</table>
+
+<!---End header--->
